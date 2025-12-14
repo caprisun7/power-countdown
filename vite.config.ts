@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
     plugins: [react()],
     // CRITICAL: Setting base to './' ensures assets are loaded correctly 
     // when hosted in a subdirectory (like GitHub Pages)
-    base: './',
+    base: './power-countdown',
     define: {
       // Prevent crash if env.API_KEY is undefined by defaulting to empty string
       'process.env.API_KEY': JSON.stringify(env.API_KEY || ''),

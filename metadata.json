@@ -1,5 +1,6 @@
 {
   "name": "Power Countdown",
+  "homepage": "https://caprisun7.github.io/power-countdown/",
   "description": "A mathematical puzzle game where you combine numbers using multiplication, powers, and reciprocals to reach a target.",
   "requestFramePermissions": []
 }
