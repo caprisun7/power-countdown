@@ -1,0 +1,5 @@
+{
+  "name": "Power Countdown",
+  "description": "A mathematical puzzle game where you combine numbers using multiplication, powers, and reciprocals to reach a target.",
+  "requestFramePermissions": []
+}
